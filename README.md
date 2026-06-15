@@ -1,3 +1,3 @@
 #git learning
 
-git practicing by watching video
+git practicing by watching video!
